@@ -109,15 +109,3 @@ Miscellaneous
 /libpeerconnection.log
 testem.log
 /typings
-
-System files
-.DS_Store
-Thumbs.db
-
-**/node_modules
-**/dist
-**/*.js
-**/.idea
-**/.vscode
-**/*.iml
-**/target
